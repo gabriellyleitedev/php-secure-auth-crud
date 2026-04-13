@@ -24,6 +24,9 @@ Uma aplicação robusta de gerenciamento de contatos que prioriza a segurança e
 ## 📸 Screenshots
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/ad116dfe-9c10-409f-9a62-218ab5c208c0" />
 
+## Credenciais de Acesso
+Usuário: admin | Senha: admin123
+
 ## 📂 Organização do Diretório
 
 ```text
@@ -35,3 +38,4 @@ Uma aplicação robusta de gerenciamento de contatos que prioriza a segurança e
 ├── views/               # Camada de apresentação (UI)
 └── database/
     └── schema.sql       # Script de migração do banco de dados
+
