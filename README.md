@@ -27,6 +27,10 @@ Uma aplicação robusta de gerenciamento de contatos que prioriza a segurança e
 ## Credenciais de Acesso
 Usuário: admin | Senha: admin123
 
+
+## ⚠️ Nota: Por se tratar de um ambiente de demonstração, as credenciais estão simplificadas. Em um cenário real, as senhas seriam criptografadas utilizando password_hash().
+
+
 ## 📂 Organização do Diretório
 
 ```text
@@ -38,4 +42,5 @@ Usuário: admin | Senha: admin123
 ├── views/               # Camada de apresentação (UI)
 └── database/
     └── schema.sql       # Script de migração do banco de dados
+
 
