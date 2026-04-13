@@ -5,7 +5,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Production--Ready-success?style=for-the-badge)
 
-Uma aplicação robusta de gerenciamento de contatos que prioriza a segurança e a integridade dos dados. Este projeto implementa um fluxo completo de autenticação e persistência utilizando práticas modernas de backend em PHP puro.
+Uma aplicação robusta de gerenciamento de contatos que prioriza a segurança e a integridade dos dados. Esse projeto implementa um fluxo completo de autenticação e persistência utilizando práticas modernas de backend em PHP puro.
 
 ## 💎 Diferenciais Estruturais
 
