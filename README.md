@@ -1,4 +1,4 @@
-# 🛡️ AuthGuard & Contact Manager
+# AuthGuard & Contact Manager
 
 ![PHP Version](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -7,7 +7,7 @@
 
 Uma aplicação robusta de gerenciamento de contatos que prioriza a segurança e a integridade dos dados. Esse projeto implementa um fluxo completo de autenticação e persistência utilizando práticas modernas de backend em PHP puro.
 
-## 💎 Diferenciais Estruturais
+## Diferenciais Estruturais
 
 * **Data Security (PDO):** Implementação de *Prepared Statements* para blindagem total contra SQL Injection.
 * **Session Integrity:** Sistema de controle de acesso que valida o estado de autenticação em nível de rota, garantindo que áreas sensíveis sejam inacessíveis a usuários não autorizados.
@@ -20,9 +20,7 @@ Uma aplicação robusta de gerenciamento de contatos que prioriza a segurança e
 - **Persistence:** MySQL (RDBMS)
 - **Interface:** HTML5, CSS3, JavaScript & Bootstrap 5
 - **Security Drivers:** PDO (PHP Data Objects)
-
-## 📸 Screenshots
-<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/ad116dfe-9c10-409f-9a62-218ab5c208c0" />
+- 
 
 ## Credenciais de Acesso
 Usuário: admin | Senha: admin123
